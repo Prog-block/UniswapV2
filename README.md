@@ -4,8 +4,6 @@ Uniswap is a decentralized exchange (DEX). And thus aims to be an alternative to
 
 Code Comprehension: This project helped me to develop a deep understanding of this complex codebase by analyzing and comprehending it. This project also provided valuable insights into the inner workings of decentralized exchanges.
 
-Tests can be deployed with: forge `test`
-
 Contracts can be compiled with: `forge build`
 
 Enjoy building
