@@ -8,12 +8,11 @@ This project helped me to develop a deep understanding of this complex codebase 
 
 ### Architecture Overview:
 
+
 Uniswap V2 contracts are split into two repositories:
 
-1. Core
-2. Periphery
-
-The periphery repository contains multiple contracts that make it easier to use Uniswap.
+ 1. Core
+ 2. Periphery
 
 ### Core repository:
 
